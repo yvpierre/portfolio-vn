@@ -1,11 +1,11 @@
-<script>
-
-</script>
-
 <template>
-    <h1>Test about</h1>
+    <h1>About page</h1>
 </template>
 
-<style>
+
+<script>
+</script>
+
+<style lang="scss" scoped>
 
 </style>

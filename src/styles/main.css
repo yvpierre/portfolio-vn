@@ -1,7 +1,11 @@
 :root {
-  background-color: black;
-  color: white;
+  background-color: #F5E6E8;
+  color: #192A51;
   font-family: CabinetGrotesk-Light, sans-serif;
+}
+
+* {
+  cursor: none;
 }
 
 /*# sourceMappingURL=main.css.map */
